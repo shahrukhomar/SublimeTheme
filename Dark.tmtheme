@@ -1353,9 +1353,9 @@ JAVASCRIPT
             </dict>
             <dict>
                 <key>name</key>
-                <string>JS: true | false | null | undefined | new </string>
+                <string>JS: true | false | null | undefined | new | && | ! | || |</string>
                 <key>scope</key>
-                <string>constant.language.boolean.false.js, constant.language.null.js, constant.language.boolean.true.js, constant.language.undefined.js, keyword.operator.new.js</string>
+                <string>constant.language.boolean.false.js, constant.language.null.js, constant.language.boolean.true.js, constant.language.undefined.js, keyword.operator.new.js, keyword.operator.logical.js</string>
                 <key>settings</key>
                 <dict>
                     <key>foreground</key>
